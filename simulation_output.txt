@@ -1,0 +1,9 @@
+Scenario             Net Worth       Interest        CloseMo    Equity          Debt            Cash           
+---------------------------------------------------------------------------------------------------------
+EMI+50K              ₹10.80Cr        ₹4.36L          35         ₹7.16Cr         ₹12.37L         ₹3.52Cr        
+pre_20L              ₹10.73Cr        ₹2.15L          30         ₹7.11Cr         ₹9.90L          ₹3.52Cr        
+pre_10L + emi_50K    ₹10.96Cr        ₹2.65L          27         ₹7.26Cr         ₹16.57L         ₹3.54Cr        
+pre_10L              ₹10.56Cr        ₹4.17L          43         ₹7.01Cr         ₹5.53L          ₹3.49Cr        
+Status Quo           ₹10.41Cr        ₹6.97L          56         ₹6.93Cr         ₹1.48L          ₹3.46Cr        
+
+Best vs Worst Difference: ₹55.23L
